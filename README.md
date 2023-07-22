@@ -1,5 +1,5 @@
 
-![c09a6e3c-1b1c-4531-a93c-a880883c5729](https://github.com/sara-mohammed96/Sarah-Allateef/assets/63727924/1a20c1ce-7c5e-41c4-b685-405c469c80e9)
+![c09a6e3c-1b1c-4531-a93c-a880883c5729](https://github.com/sara-mohammed96/sara-mohammed96/assets/63727924/3b07e837-5448-4c24-90e7-07ca770058e2)
 
 
 
@@ -12,7 +12,8 @@ Throughout my academic and professional journey, I have demonstrated a strong pa
 ---
 
 
-<img align="right" width="500" height="500" src="https://github.com/sara-mohammed96/Sarah-Allateef/assets/63727924/d6ca2153-5d41-4e47-a710-e5aec091fe2a"/>
+
+<img align="right" width="500" height="500" src="https://github.com/sara-mohammed96/sara-mohammed96/assets/63727924/7539dcf1-f7be-4bd3-8f12-714fff801088"/>
 
 🌱 Currently Learning:
 ---
