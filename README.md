@@ -5,7 +5,7 @@
 
 🌟 AboutMe
 ---
-👋 Hello I am a frontend web developer passionate about crafting delightful user experiences and bringing designs to life through clean and efficient code. As a junior frontend developer, I'm always eager to learn and grow in the ever-evolving world of web technologies.
+👋 Hello I am a fullstack web developer passionate about crafting delightful user experiences and bringing designs to life through clean and efficient code. As a junior fullstack developer, I'm always eager to learn and grow in the ever-evolving world of web technologies.
 
 Throughout my academic and professional journey, I have demonstrated a strong passion for programming and a genuine desire to excel in my field. I constantly strive to enhance my knowledge and skills, ensuring that I stay updated with the latest industry trends and best practices. I am driven by the pursuit of writing cleaner and more efficient code, with a focus on maintainability and scalability.
 
