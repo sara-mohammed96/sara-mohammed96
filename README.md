@@ -15,14 +15,7 @@ Throughout my academic and professional journey, I have demonstrated a strong pa
 
 <img align="right" width="500" height="500" src="https://github.com/sara-mohammed96/sara-mohammed96/assets/63727924/7539dcf1-f7be-4bd3-8f12-714fff801088"/>
 
-🌱 Currently Learning:
----
-- [Three.js]: Learning Three.js has been an exciting journey into the world of 3D web graphics. With its powerful capabilities and easy-to-use API, I'm now learning to create stunning and interactive 3D visualizations for the web." 🚀🎨
 
-- [PlaywrightTesting]: Writing robust end-to-end tests for web apps to ensure high-quality, bug-free code. Excited to explore new testing challenges and contribute to better test automation. 🚀
-
-- [blender]: Iam into a creative journey into 3D modeling and animation with Blender to enhance my Three.js projects. Excited to infuse life and realism into web experiences through stunning 3D visualizations.
----
 
 🤝 Open to Collaborate:
 Passionate about collaborating on open-source projects and learning from experienced developers. Let's build something awesome together!
